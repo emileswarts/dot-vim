@@ -9,3 +9,4 @@ set incsearch "Incremental search
 set smartcase "Case insensitive search
 set novisualbell 
 filetype indent on
+let mapleader = ","
