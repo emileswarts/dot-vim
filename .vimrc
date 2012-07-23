@@ -1,6 +1,7 @@
 syntax enable "syntax highlighting
 set background=dark
-colorscheme solarized
+set t_Co=256
+colorscheme camo
 set number "line numbers
 set encoding=utf8
 set tabstop=4
