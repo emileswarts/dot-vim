@@ -11,3 +11,5 @@ set smartcase "Case insensitive search
 set novisualbell 
 filetype indent on
 let mapleader = ","
+
+cnoremap w!! w !sudo tee % >/dev/null "sudo save
